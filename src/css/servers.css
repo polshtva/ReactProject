@@ -1,0 +1,18 @@
+.wrapper{
+    background-color: #F5F5F5;
+}
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.servers{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 30px;
+}
+
+.server__item{
+    padding: 51px 64px 109px 41px;
+    background-color: white;
+}
